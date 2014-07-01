@@ -1,0 +1,69 @@
+{
+        //SEED_lua自动填充 插件包
+        //ver 0.2  
+        
+        "scope": "source.lua",
+
+        "completions":
+        [
+        		//director
+        		"director.leavingModule",
+				"director.enterModule",
+				"director.currentModule",
+				"director.currentRuntimeAgent",
+				"director.load",
+        		//seed_ex
+				//uri
+				"uri.dirname",
+				"uri.extension",
+				"uri.split",
+				"uri.reluri",
+				"uri.splitprotocol",
+				"uri.absolute",
+				"uri.isabs",
+				"uri.normalize",
+				"uri.join",
+				"uri.normjoin",
+				"uri.basename",
+				"uri.splitext",
+				"uri.splitarchieve",
+				//lua_ex
+				"values",
+				"toboolean",
+				"bind",
+				"true_",
+				"false_",
+				"string:topattern",
+				"string:replace",
+				"string:split",
+				"string:startsWith",
+				"string:endsWith",
+				"table:keys",
+				"table:find",
+				"table:findVal",
+				"table:removeVal",
+				"table:clone",
+				"table:findFirst",
+				"table:getLength",
+				"math.sign",
+				"printTable",
+				"outTable",
+				"math.epsEqual",
+				"getGlobal",
+				"setGlobal",
+				"warning",
+				"addModuleListener",
+				"addOnceListener",
+				"addEventListener",
+				"removeEventListener",
+				"dispatchEvent",
+				"dispatchEventWithSelf",
+				"copyMap",
+				"mergeMap",
+				"io.readFile",
+				"lines",
+				"utf8_2_unicode",
+				"clamp",
+                "nop"
+        ]
+}
