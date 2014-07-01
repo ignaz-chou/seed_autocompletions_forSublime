@@ -6,6 +6,8 @@ Seed自动填充(for sublime)
 放在目录\Sublime Text 2\Packages\Lua中即可
 
 组件说明:
+
+
 	lua5.1 : lua5.1自动填充
 
 	seed_base :基本包,API中已经有相关说明的内容
